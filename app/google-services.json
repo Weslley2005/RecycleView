@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904261380698",
+    "project_id": "recycleview-9c5e8",
+    "storage_bucket": "recycleview-9c5e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904261380698:android:af71ca282f6c1b1bed0663",
+        "android_client_info": {
+          "package_name": "br.unigran.novorecycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFufSLUUaQB-I-xcTMbBAsM6vaNE5jXNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
